@@ -24,11 +24,11 @@ But there is a dark side of these kind of DataBases is that, it write data in a 
 4. Agraph-DataBase is centralized between the elements of data logs. Every element is stored as a node. The relation between every element is called Link or Relation. In graph databases the first class elements are presentation of a data set, that are associated with the link of relational database. A graph DataBase is used for finding relation between data elements.
 ***
 Here are few NoSQL DataBases :-
-5. **Mongo DB:-** It is a "Document" based NoSQL DataBase. It co-ordinate and control changes to the structure of documents using schema validation. It creates the DataBase in a manner that it can be serched and indexed very easily and in a fast manner.
-6. **Elastic Search :-** It is also known are 'ES' and it is free and open source DataBase built with java. It is very useful when full text search is part of your solution. It means when we want to search any thing, the search engine examines all of the words in every stored documents
-7. **Dynamo DB :-** It is a "Key-Value Stores" NoSQL data type. It is known for its scalability, which refers to the ability of DataBase to allow it to store the increasing ammount of data. It means when we have to store different type of data elements in different logs.
-8. **HBase :-** It is a "Column-Oriented DataBase". It runs on the top of Hadoop Distributed file system (HDFS). It is highly scalable and open source DataBase systems. If you have a requirement to store petabytes of data then it is the most effective DataBase to be used.
-9. **Cassandra :-** It is built by facebook. It is one of the most scalable as it can perform operation on petabytes of information and thousands of querys at a time. It is one of the open source NoSQL DataBases.
+1. **Mongo DB:-** It is a "Document" based NoSQL DataBase. It co-ordinate and control changes to the structure of documents using schema validation. It creates the DataBase in a manner that it can be serched and indexed very easily and in a fast manner.
+2. **Elastic Search :-** It is also known are 'ES' and it is free and open source DataBase built with java. It is very useful when full text search is part of your solution. It means when we want to search any thing, the search engine examines all of the words in every stored documents
+3. **Dynamo DB :-** It is a "Key-Value Stores" NoSQL data type. It is known for its scalability, which refers to the ability of DataBase to allow it to store the increasing ammount of data. It means when we have to store different type of data elements in different logs.
+4. **HBase :-** It is a "Column-Oriented DataBase". It runs on the top of Hadoop Distributed file system (HDFS). It is highly scalable and open source DataBase systems. If you have a requirement to store petabytes of data then it is the most effective DataBase to be used.
+5. **Cassandra :-** It is built by facebook. It is one of the most scalable as it can perform operation on petabytes of information and thousands of querys at a time. It is one of the open source NoSQL DataBases.
 ***
 # References:-
  SQL:- https://www.youtube.com/watch?v=27axs9dO7AE
