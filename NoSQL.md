@@ -32,7 +32,11 @@ Here are few NoSQL DataBases :-
 ***
 # References:-
  1.SQL:- https://www.youtube.com/watch?v=27axs9dO7AE
+ 
  2.NoSQL:- https://www.youtube.com/watch?v=AWEUeucIiWA
+ 
  3.Why to use NoSQL:- https://www.youtube.com/watch?v=xQnIN9bW0og&t=563s
+ 
  4.Types of NoSQL DataBases:- https://www.mongodb.com/scale/types-of-nosql-databases
+ 
  5.NoSQL DataBases:- https://content.techgig.com/top-5-nosql-databases-for-data-scientists-in-2020/articleshow/78330888.cms
