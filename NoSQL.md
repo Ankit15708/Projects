@@ -31,8 +31,8 @@ Here are few NoSQL DataBases :-
 5. **Cassandra :-** It is built by facebook. It is one of the most scalable as it can perform operation on petabytes of information and thousands of querys at a time. It is one of the open source NoSQL DataBases.
 ***
 # References:-
- SQL:- https://www.youtube.com/watch?v=27axs9dO7AE
- NoSQL:- https://www.youtube.com/watch?v=AWEUeucIiWA
- Why to use NoSQL:- https://www.youtube.com/watch?v=xQnIN9bW0og&t=563s
- Types of NoSQL DataBases:- https://www.mongodb.com/scale/types-of-nosql-databases
- 5 NoSQL DataBases:- https://content.techgig.com/top-5-nosql-databases-for-data-scientists-in-2020/articleshow/78330888.cms
+ 1.SQL:- https://www.youtube.com/watch?v=27axs9dO7AE
+ 2.NoSQL:- https://www.youtube.com/watch?v=AWEUeucIiWA
+ 3.Why to use NoSQL:- https://www.youtube.com/watch?v=xQnIN9bW0og&t=563s
+ 4.Types of NoSQL DataBases:- https://www.mongodb.com/scale/types-of-nosql-databases
+ 5.NoSQL DataBases:- https://content.techgig.com/top-5-nosql-databases-for-data-scientists-in-2020/articleshow/78330888.cms
